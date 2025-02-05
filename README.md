@@ -29,7 +29,7 @@ git branch --delete branch_name
 git push repos_name --delete branch_name
 
 # To delete a file in a branch in github, use:
---> remove the file locally.
+--> remove the file locally. <br>
 --> commit the changes.
 --> push the changes remotely.
 git rm file_name
