@@ -19,9 +19,9 @@ git push repository_name branch_name
 git push repository_name
 
 # To modify any content
---> Firstly add the file.
---> Commit the changes.
---> Push the changes to remote.
+--> Firstly add the file. <br>
+--> Commit the changes. <br>
+--> Push the changes to remote. <br>
 git push repos_name
 
 # To delete a branch globally, use:
@@ -30,8 +30,8 @@ git push repos_name --delete branch_name
 
 # To delete a file in a branch in github, use:
 --> remove the file locally. <br>
---> commit the changes.
---> push the changes remotely.
-git rm file_name
-git commit -m "message"
-git push repos_name file_name
+--> commit the changes. <br>
+--> push the changes remotely. <br>
+git rm file_name <br>
+git commit -m "message" <br>
+git push repos_name file_name <br>
