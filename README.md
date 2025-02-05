@@ -8,7 +8,7 @@ git checkout -b "branch_name"
 git remote add repository_name <code_url>
 
 # To merge the branch to main branch
---> Switch to the branch to merge and use:
+--> Switch to the branch to merge and use: <br>
 git merge main_branch
 
 # To apply the changes remotely, use:
@@ -25,7 +25,7 @@ git push repository_name
 git push repos_name
 
 # To delete a branch globally, use:
-git branch --delete branch_name
+git branch --delete branch_name <br>
 git push repos_name --delete branch_name
 
 # To delete a file in a branch in github, use:
